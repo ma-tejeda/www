@@ -97,6 +97,160 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+body{
+  font-family:'Lato', sans-serif;
+  background: url('../img/bg.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+
+.neufert{
+  width: 200px;
+  height: 200px;
+  background: url(../img/1.png) no-repeat center center;
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+  margin: 0 auto;
+
+}
+
+.content{
+  margin-top: 220px;
+}
+
+.topdi{
+  width: 200px;
+  height: 200px;
+  background: url(../img/1.png) no-repeat center center;
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+  margin: 0 auto;
+
+}
+
+.toparqui{
+ width: 200px;
+  height: 200px;
+  background: url(../img/5.png) no-repeat center center;
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+ margin: 0 auto;
+
+}
+.topcine{
+  width: 200px;
+  height: 200px;
+  background: url(../img/3.png) no-repeat center center;
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+  margin: 0 auto;
+
+}
+
+
+.topmoda{
+  width: 200px;
+  height: 200px;
+  background: url(../img/4.png) no-repeat center center;
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+  margin: 0 auto;
+
+}
+
+
+.neufert p{
+  padding-top: 20px;
+  font-size: 12px;
+}
+
+.medidascasa{
+  width: 200px;
+  height: 200px;
+  background: url(../img/2.png) no-repeat center center;
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+  margin: 0 auto;
+
+}
+
+.medidascasa p{
+  padding-top: 20px;
+  font-size: 12px;
+
+}
+.espacioformayorden{
+  width: 200px;
+  height: 200px;
+  background: url(../img/3.png) no-repeat center center;
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+  margin: 0 auto;
+
+}
+
+.espacioformayorden p{
+  padding-top: 20px;
+  font-size: 12px;
+}
+
+.manualdedibujoarquitectonico{
+  width: 200px;
+  height: 200px;
+  background: url(../img/4.png) no-repeat center center;
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+  margin: 0 auto;
+
+}
+
+.manualdedibujoarquitectonico p{
+  padding-top: 20px;
+  font-size: 12px;
+}
+
+.casaviviendajardin{
+  width: 200px;
+  height: 200px;
+  background: url(../img/5.png) no-repeat center center;
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+ margin: 0 auto;
+
+}
+
+.casaviviendajardin p{
+  padding-top: 20px;
+  font-size: 12px;
+}
+
+a{
+  color: #000;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #000;
+  text-decoration: none;
+}
+
+.header{
+  padding: 12px;
+  height: 80px;
+  background: #fff;
+}
+
+.header h1 {
+  text-align: center;
+}
 
 /* ==========================================================================
    Helper classes
@@ -257,6 +411,7 @@ textarea {
   h3 {
     orphans: 3;
     widows: 3;
+    font-size:
   }
   h2,
   h3 {
